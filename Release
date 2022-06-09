@@ -1,15 +1,37 @@
-Origin: SeanTheGleaming's Repo
-Label: SeanTG
-Suite: stable
-Version: 1.0.0
-Codename: tangelo
 Architectures: iphoneos-arm
+Codename: CODENAME_HERE
 Components: main
-Description: What the fuck did you just fucking say about me, you little bitch? I'll have you know I graduated top of my class in the Navy Seals, and I've been involved in numerous secret raids on Al-Quaeda, and I have over 300 confirmed kills. I am trained in gorilla warfare and I'm the top sniper in the entire US armed forces. You are nothing to me but just another target. I will wipe you the fuck out with precision the likes of which has never been seen before on this Earth, mark my fucking words. You think you can get away with saying that shit to me over the Internet? Think again, fucker. As we speak I am contacting my secret network of spies across the USA and your IP is being traced right now so you better prepare for the storm, maggot. The storm that wipes out the pathetic little thing you call your life. You're fucking dead, kid. I can be anywhere, anytime, and I can kill you in over seven hundred ways, and that's just with my bare hands. Not only am I extensively trained in unarmed combat, but I have access to the entire arsenal of the United States Marine Corps and I will use it to its full extent to wipe your miserable ass off the face of the continent, you little shit. If only you could have known what unholy retribution your little 'clever' comment was about to bring down upon you, maybe you would have held your fucking tongue. But you couldn't, you didn't, and now you're paying the price, you goddamn idiot. I will shit fury all over you and you will drown in it. You're fucking dead, kiddo.
-md5:  0b5f9276b9622baacbb7d96c5a407ea1 78671 Packages
- 631ac53fe37db8d60a234bcd8f548ea2 22167 Packages.gz
-sha1:  d0945b1b768cc1a165ae9372486a47d24188942a 78671 Packages
- 1817de916b0f76d38e6be8ba27c6b5903d3cd049 22167 Packages.gz
-sha256:  b03d23b3862d71a3bb005215689309743fe88a5de1dd4c9f5bc9da63827ce3c7 78671 Packages
- 58cb17dab905b6ce7f9870bd2c9737b4a9e96dcd89c3d28ec0688df1aa280975 22167 Packages.gz
-
+Date: Thu, 09 Jun 2022 19:27:56 +0000
+Description: DESCRIPTION_HERE
+Label: LABEL_HERE
+Origin: ORIGIN_HERE
+Suite: stable
+Version: 1.0
+MD5Sum:
+ 0ad45fa04c6a1d940973b14dc128ffeb            69454 Packages
+ 40de5f53f2bd3a29504e6d812c85babb            22497 Packages.bz2
+ c31e103a21a7cbc343716ed10eecc0df            25256 Packages.gz
+ 2e89b333b0a3527536e47def22199ae4            22780 Packages.xz
+ d41d8cd98f00b204e9800998ecf8427e                0 Packages.zst
+ a02d58c45058c0031830d2fb4895af97              202 Release
+SHA1:
+ fd57e1c0c7c221b541dfaaf597ee62e817a33285            69454 Packages
+ c62a7a3548ed695003411fbf4587f8b4e23a9486            22497 Packages.bz2
+ 369102ac2eb4719df0b2ecee27eb735cfde75d94            25256 Packages.gz
+ f58af1ca07db737b7a4f8a1178ac0f373af06617            22780 Packages.xz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 Packages.zst
+ 6ec612860c286d169437675fd5c18779387e4d44              202 Release
+SHA256:
+ 5b0ae54a308b81db9ff1ca474418447fe20c719d89a440da10c2579d85460628            69454 Packages
+ e496fffc06862f40d96695a2907dacb761babe7ac451a80fd68194cd28a7b036            22497 Packages.bz2
+ 2a88b4b6bc7146137bbcc90ef61a915f3be9710a8d692e9fccfab9284a6fbd03            25256 Packages.gz
+ 4c6d6b6171cfe4f842acc7100b524f1aa2da0a5b9ae51ce937fac8f643876141            22780 Packages.xz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 Packages.zst
+ 4812ef6bb9a79bed6620e64901b3a6be78a6f24c4539baf2e880e896324504b3              202 Release
+SHA512:
+ 7bece3045202d86ba2e65f77d8dd26fd7f7090ef4ddbcdb7ed4b1560d59418943c964bd04cc7533cc1438faca2a9d2f4ffd7d89084ea9d52214924ab91edf515            69454 Packages
+ 4360fdd82d02a07eae879ebc673f0362668df958c42f7f133d4931adde4ffc31918549ed4032d5faf6c54669a79ac1e78068f7cf64b17200759a9813fb5f00b9            22497 Packages.bz2
+ 4ab9cd02cbda8d7eb0488111b18c2c0acdcec3f2ad1ba4a7481a6022395995f2d37d2a894a82104ffb78bd9e20863157f30f53419b5247b3679a4bb9248fa292            25256 Packages.gz
+ ed2e36a1d689f6c81056fa348db43acc394cbb6ddd2759fb9ff0f1be61f336971a2570ac733f08da8dd07a754e2404dfdfce657d99dacc0a48a871fa51c41e4c            22780 Packages.xz
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 Packages.zst
+ c6b6d5f05df85a59e746a7a71a614c4ee9ce4cc03a0f077b53b2fa06f292ba7708f0ff7f0f7f27ad7219022d107a262d7ed82c1ffc0cf0fcd652c96fa88ba901              202 Release

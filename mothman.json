@@ -1,25 +1,16 @@
 {
-    "github": "syns/repo.me",
+    "github": "supermamon/Reposi3",
     "Depiction": {
         "class": "CydiaXML",
-        "path": "depictions/web/{package}/info.xml",
-        "url": "{host}/depictions/web/?p={package}"
+        "path": "depictions/{package}/info.xml",
+        "url": "{host}/depictions/?p={package}"
     },
-    "SileoDepiction": {
-        "class": "Sileo",
-        "path": "depictions/native/{package}/depiction.json",
-        "url": "{host}/depictions/native/{package}/depiction.json"
-    },
-    "deb_path": "debians",
-    "apt.conf": "assets/repo/repo.conf",
+    "deb_path": "debs",
     "exclude": [
+        "debs/com.supermamon.*",
+        "depictions/com.supermamon.*",
         "Packages*",
-        "debians/me.syns.sample.deb",
-        "depictions/web/me.syns.samplepackage",
-        "depictions/native/me.syns.samplepackage",
-        "assets/repo/Banners/*",
-        "assets/repo/Screenshots/*",
-        "sileo-featured.json"
+        "Release"
     ],
-    "name": "repo.me"
+    "name": "Reposi3"
 }
