@@ -135,7 +135,7 @@ Icon: file:///Applications/iCleaner.app/Icon.png
 Package: com.hackyouriphone.relocatereborn
 Architecture: iphoneos-arm
 Version: 1.0.1
-Section: HYI - Tweaks
+Section: Tweaks
 Maintainer: HackYouriPhone <repo@hackyouriphone.org>
 Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0), applist | com.hackyouriphone.applist, com.rpetrich.rocketbootstrap | com.hackyouriphone.rocketbootstrap (>= 0.1.7), preferenceloader
 Conflicts: me.nepeta.relocate
