@@ -1,0 +1,2714 @@
+{
+    "minVersion": "0.1",
+    "headerImage": "headerImage",
+    "class": "DepictionTabView",
+    "tintColor": "#0657bb",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "views": [
+                {
+                    "title": "Enmity",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "The power of addons, all in your hand.",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "The power of addons, all in your hand.",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "2.0.1",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "Enmity Team",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "PicaHide",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Disables Snapchat jailbreak / tweak detection.",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Disables Snapchat jailbreak / tweak detection.",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.4.4",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "AeonLucid <aeonlucid@gmail.com>",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Apple File Conduit \"2\" (iOS 11+, arm64)",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Allow full file-system access over USB for all arm64 devices, especially useful for those on iOS 11 and above.",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Allow full file-system access over USB for all arm64 devices, especially useful for those on iOS 11 and above.",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.1.6-1",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "saurik, Cannathea <csupport@cannathea.com>",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "PowerApp",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Reboot, Shutdown, Respring, go into Safemode",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Reboot, Shutdown, Respring, go into Safemode",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "6.1.1",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "dave1482 <dave1482@dave1482.com>",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Substitute",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Substrate substitute for code substitution",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Substrate substitute for code substitution",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "2.2.3",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "comex <comexk+da@gmail.com>",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "iCleaner Pro",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "The first real iOS system cleaner & optimizer",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "The first real iOS system cleaner & optimizer",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "7.9.1",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "Ivano Bilenchi <support@ib-soft.net>",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Relocate Reborn",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Minimalist GPS spoofer (free, iOS 13+)",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Minimalist GPS spoofer (free, iOS 13+)",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.0.1",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "Nepeta <repo@hackyouriphone.org>",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "AutoApollo2 (A12)",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Open reddit links in Apollo without libOpener. Updated for arm64e/A12. Disclaimer: This has been tested minimally on an A12 device, and may or may not crash applications. Use at your own risk.",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Open reddit links in Apollo without libOpener. Updated for arm64e/A12. Disclaimer: This has been tested minimally on an A12 device, and may or may not crash applications. Use at your own risk.",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.0.0",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "KayFam",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "CCModules",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "More control center modules for iOS 11/12/13",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "More control center modules for iOS 11/12/13",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.5-1",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "jailbreak365 <jailbreak365@mail.com>",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "CrackTool4 (iOS 9 - 14)",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Crack Tweaks on one click",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Crack Tweaks on one click",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "4.0~beta10b",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "julioverne",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "CyDown",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Cydia Download Manager & Extra Features!",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Cydia Download Manager & Extra Features!",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "7.1.2",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "julioverne ",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "uYou",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "The best tweak for the YouTube app",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "The best tweak for the YouTube app",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "2.1",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "MiRO <tweaks_support@miro92.com>",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "uYouImport",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Library for importing songs/videos into the Music app.",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Library for importing songs/videos into the Music app.",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.0",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "MiRO <tweaks_support@miro92.com>",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Cr4shed",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "A modern crash reporter for iOS",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "A modern crash reporter for iOS",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "4.2.2",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "Muirey03",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "AltList",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "A modern AppList alternative",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "A modern AppList alternative",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.0.8",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "opa334 <opa334@protonmail.com>",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Choicy",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Advanced Tweak Configuration!",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Advanced Tweak Configuration!",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.4.1-1",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "opa334 <opa334@protonmail.com>",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "NotRecording",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Spoof screen recording detection!",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Spoof screen recording detection!",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.0",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "opa334",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Amber",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Amber-ify your LED torch.",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Amber-ify your LED torch.",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.1.0",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "PoomSmart",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "EmojiAttributes",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Various under-the-hood fixes for emoji display.",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Various under-the-hood fixes for emoji display.",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.5.0",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "PoomSmart",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Emoji iOS 15.4 (EFM) Native",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "iOS 15.4 Apple Emoji font (EFM, Natively Compressed)",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "iOS 15.4 Apple Emoji font (EFM, Natively Compressed)",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.1.0",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "PoomSmart",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "EmojiFontManager",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Emoji font override and management.",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Emoji font override and management.",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.1.7",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "PoomSmart",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "EmojiLibrary",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Master library for PoomSmart's emoji tweaks.",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Master library for PoomSmart's emoji tweaks.",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.4.0",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "PoomSmart",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "EmojiPort Resources (iOS 10+)",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Latest emoji localization and metadata for iOS 10+",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Latest emoji localization and metadata for iOS 10+",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.3.1",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "PoomSmart",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "EmojiPort (iOS 12.0-14.8)",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Latest emojis for iOS 12.0-14.8",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Latest emojis for iOS 12.0-14.8",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.2.5",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "PoomSmart",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "420 Tools",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Tools for Randy420's tweaks",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Tools for Randy420's tweaks",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "2.1",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "Randy420 <randy.skinner28@outlook.com>",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "AltDaemon",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "AltDaemon allows AltStore to install and refresh apps without a computer.",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "AltDaemon allows AltStore to install and refresh apps without a computer.",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.0.1",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "Riley Testut <support@altstore.io>",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "RocketBootstrap",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Support library allowing tweaks to communicate with sandboxed processes",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Support library allowing tweaks to communicate with sandboxed processes",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.0.10~beta1",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Substrate Safe Mode",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "safe mode safety extension (safe)",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "safe mode safety extension (safe)",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "0.9.6005",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "Jay Freeman (saurik) <saurik@saurik.com>",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "SnowBoard",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Snowboard theming engine",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Snowboard theming engine",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.4.20~Beta4",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "Spark & Dennis D. Bednarz <info@sparkdev.me>",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Apps Manager",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.6.1-10",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "TIGI Software",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "VolumeStep13/14",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Change the volume step limits",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Change the volume step limits",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "0.2.0",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "Randy420 <randy.skinner28@outlook.com>",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "AddSource",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Add the copied URL to Cydia sources automatically",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Add the copied URL to Cydia sources automatically",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "3.2",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "yuosaf01 & 3bod_syr <3body373737@gmail.com>",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Apollo Ultra Crack",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Apollo Ultra for free. Version 1.2 ONLY supports Apollo 1.13 due to a DRM change. For older versions of Apollo, use Apollo Crack 1.1.",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Apollo Ultra for free. Version 1.2 ONLY supports Apollo 1.13 due to a DRM change. For older versions of Apollo, use Apollo Crack 1.1.",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.2.1",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "Paisseon",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "iCleaner Pro Crack",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "iCleaner Pro for free, nanodesu",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "iCleaner Pro for free, nanodesu",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "0.0.2",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "Paisseon",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "RespringUnlock",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Auto-unlock after respring",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Auto-unlock after respring",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "0.1",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "Paisseon",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Satella 2",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Modern in-app purchase cracker",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Modern in-app purchase cracker",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.2",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "Paisseon",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Activator",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Centralized gestures, button and shortcut management for iOS",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Centralized gestures, button and shortcut management for iOS",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.9.13",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "Ryan Petrich <rpetrich+activator@gmail.com>",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "SimpleActivationActions",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Simple Activation Actions",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Simple Activation Actions\n Handles StatusBar actions for simple activation events",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "0.1-1",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "Elias Limneos <limneoselias@gmail.com>",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "VoiceChanger XS (iOS 11/12/13)",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Change your voice during a call!",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Change your voice during a call!",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "2.2-94",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "Elias Limneos <limneoselias@gmail.com>",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "MYbloXX\u00ae (iOS 14+)",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "An AUTO-UPDATING Ad Blocker!",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "An AUTO-UPDATING Ad Blocker!\n \u2022 Description:\n What makes MYbloXX\u00ae better than the alternatives? \n -\n \u2022 AUTO-UPDATING.\n \u2022 BETTER BATTERY LIFE.\n \u2022 FASTER BROWSING.\n \u2022 INTEGRATED POP-UP/REDIRECT BLOCKER.\n -\n Security is a top priority for everybody... MYbloXX\u00ae is no different. This uses absolutely no third-party servers to re-route your traffic, unlike ffapple and other third-party DNS/Ad blocking App Store apps. They claim to not do so but how do we REALLY know that? MYbloXX\u00ae is different: All traffic is routed DIRECT... \n -\n MYbloXX\u00ae checks against specified rules set within a PAC file. If the domain requested is within the PAC's rule list, it will sinkhole. The PAC congifuration uses wildcards to more effeciently block targeted ad-servers and known domain structures like http://ad._____ \n -\n The use of wildcards means a vast majority of entries within the hosts file can be removed to ensure a fast, efficient ad-blocking method. \n -\n MYbloXX\u00ae uses a powerful Apple stock feature that is usually only available to those with \"supervised\" devices. It also allows for on-the-fly updates to quickly add new ad-servers and works on all versions of iOS, all carriers and ISP\u2019s (IPv4 and IPv6 respectively).\n -\n MYbloXX\u00ae aims to block as many ads as possible out of the box using a technique that has not been used in any other ad-blocking tweaks until now. With new ad servers being created on a daily basis, on rare occasions, it\u2019s possible you\u2019ll come across an ad in an app/on a website.\n -\n If this happens, please use the reporting feature in Settings. \n -\n Ad-servers that are added to MYbloXX\u00ae will be updated AUTOMATICALLY on your device providing up to the minute protection from ads, revokes, trackers, miners and all other malicious content/threats.\n -\n \u2022 Works for Wi-Fi and data (5G/LTE/4G/3G) connections. \n \u2022 Does not rely on hosts/other tweaks to work. \n \u2022 Works in stock AND jailbroken mode. \n \u2022 Works alongside VPN servers/apps. \n \u2022 Blocks all language ad-servers. \n \u2022 Blocks user stats scripts. \n \u2022 Blocks pop-ups/Redirects. \n \u2022 IPv4/IPv6 compatibility. \n \u2022 Blocks in-game ads. \n \u2022 Blocks tweak ads*. \n \u2022 No battery drain. \n \u2022 Auto-updates.\n -\n Thank you for choosing MYbloXX\u00ae!\n \u2665 MYXXdev\u2122\n --------------------------------------\n --------------------------------------\n \u2022 Changelog:\n --------------------------------------\n -\n ~ v4.020822\n -\n A fix for the stock iOS 14 notifications bug that we\u2019ve all been plagued with (notifications not coming in from apps) is now included with MYbloXX\u00ae.\n -\n Access Tester has been renamed to Access Checker with the addition Blocking Statistics.\n -\n AdReport! / xReport! pages are now consolidated into one with new options to report via Telegram, Reddit and Discord.\n -\n Added additional projects to \u2018Tweak Support\u2019 section.\n -\n Advanced Settings section added with the ability to add custom blacklist / whitelist rules to a self-hosted PAC that can also be applied to your device. Custom rules you input will be added by downloading the latest ruleset from the current MYbloXX\u00ae Default PAC, inserted and generated into your own PAC file (saved at /var/mobile/MYbloXXCustom.pac) that you can then upload to your chosen hosting provider. Please reference the Advanced Settings page for additional information (on the page and in pop ups) as well as a How-To video. Both URL\u2019s and wildcards can be entered separated by a comma (eg. cnn.com,facebook.com,espn.com)\n -\n All PAC files have been re-written from scratch, omitting ASCII and other characters / rules that I suspect iOS may have had issues rendering.\n -\n All behind-the-scenes scripts have been re-written and optimized.\n -\n All buttons / toggles will now run cFix as an added measure to ensure CFNetwork doesn\u2019t hang / lose configuration. This will also help if somebody experiences a connection issue (GOD FORBID)... A simple toggle on / off will bring back connectivity (as well as \u2018Reset iOS Connection Cache\u2019 button / switching between other configurations) without the need of an reboot / ldrestart.\n -\n All scripts optimized for reliability.\n -\n Changes made to CFNetwork that will force iOS to keep the service alive - The reason why some were seeing connectivity issues was due to this service losing its configuration / dying and not restarting like it should. MYbloXX\u00ae will now take care of this automatically. This was addressed officially in 15.2 by \uf8ff along with some other CFNetworkAgent related issues.\n -\n Compressed images to make Debian package smaller in size.\n -\n Custom PAC Configuration video added for step-by-step instructions on how to use.\n -\n Custom Proxy Server section added for those that may need to use a proxy server while having MYbloXX\u00ae installed... If you don\u2019t know what this is, please don\u2019t use it. To add, unlike iOS stock implementation of this where you can only add a proxy server to your current WiFi connection, this will allow the proxy server to run on mobile data too. Enter as http://server:port\n -\n DownDetector button/link added for convenience to allow a user to check if a website/service/app is down prior to submitting an unnecessary report.\n -\n Everything MYbloXX\u00ae filesystem wise has been relocated at the request of a user... This won\u2019t effect usability/performance in any way.\n -\n Fallback has been enabled to ensure users never lose connectivity if the PAC host goes down (very rare). If this were to happen, ads will show temporarily until the PAC host is back up.\n -\n for iOS dropped from name to become uniform with other tweaks.\n -\n Future MYbloXX\u00ae updates will now remember prior settings / configurations after installation so it will keep whatever configuration the user had prior to updating instead of reverting everything back to Default settings (including YouTopia / SafariBlocker).\n -\n General overall improvements while browsing.\n -\n Jetsam modifications are no longer included in MYbloXX\u00ae. With the changes made, they\u2019re no longer a necessity for most devices (with MYbloXX\u00ae specifically) BUT they\u2019re still available for those that wish to apply them for general system stability (for iOS 14 only). You can find this in the newly released package on the MYXXdev\u2122 repository (SamJet\u00ae).\n -\n Legacy Mode has been added at the request of a user which allows the old method of installation (via Profiles)... I don\u2019t recommend using this unless you truly have a reason to.\n -\n MYbloXX\u00ae will no longer remain installed when a user performs rootfs or restores from backup on a new/updated device.\n -\n New Configuration added (allowY - Allow Yahoo! Ads - This fixes some features in Yahoo! apps but WILL show ads!)\n -\n Patreon option added for those that wish to contribute monthly. Other donation options have been separated and moved to Tweak Support.\n -\n Re-written the tweak from the ground up omitting unnecessary code.\n -\n Reddit and Email contact links added.\n -\n Removed otaDelay\u00ae, making it a stand-alone tweak (available on the MYXXdev\u2122 Repository).\n -\n Removed package depictions because I\u2019m too lazy to have to update via HTML every update. Shifted back to control file for ease.\n -\n Reset (basically a re-install) button added to Settings > Utilities / Other.\n -\n Root check added on pre-installation to ensure user has correct r/w permissions.\n -\n Settings UI overhaul / complete re-design.\n -\n Shifted everything PAC related from GitHub to archive.org to ensure more users can benefit from MYbloXX\u00ae if they reside in a country that blocks access to GitHub. At this time, test results show that CHINA is the only country that will NOT be able to use MYbloXX\u00ae. Users do have the option to select whether they\u2019d like to use the PAC hosted on archive.org (default selection on install) or GitHub. All PAC\u2019s are the same, just hosted on different platforms. It\u2019s down to personal preference (if you have the luxury of residing somewhere that doesn\u2019t block GitHub). This will also come in handy if/when a host goes down. For example: If you\u2019re using archive.org and their servers go down, you can switch to the GitHub PAC temporarily until service is restored. This very rarely happens but at least the option is there.\n -\n Support for iOS 4 - 10 has been dropped for now - This may return in the future depending on demand.\n -\n Toggle status is now checked against the file to ensure the change has been made to cease iOS confusion. This may cause a slight delay in toggle times periodically (depending on your current RAM usage) but this is a fail-safe feature that assists in files not becoming corrupted in turn needing re-installation.\n -\n Updated changelog for all prior public releases in control file.\n -\n Updated \u2018Other MYXXdev\u2122 Projects\u2019 section.\n -\n With SamJet\u2019s release, the MYbloXX\u00ae (14+) package is no longer needed. The 13+ package will now cover both iOS 13 and 14.\n -\n --------------------------------------\n -\n ~ v3.071121-BFM\n -\n Active Configuration added to settings bundle to show which configuration you're currently running.\n ~Default Configuration (formerly Standard PAC Profile) is now applied immediately after installation and active upon respring.\n -\n Discord Support Group added.\n -\n Full support for all jailbreaks including the latest versions of unc0ver and Taurine.\n -\n Full support for iOS 4 - 14.\n -\n General code cleanup.\n -\n Jetsam modifications to fix connectivity issues on iOS 14.0 - 14.3.\n -\n MYbloXX\u00ae is now a one tap installation / uninstallation process.\n -\n Manual installation of profiles is no longer required.\n -\n New configurations added as requested by users (noSocials / noApple).\n -\n One tap configuration switching.\n -\n Optional DNS addons (Cloudflare / Google / Quad9 - iOS 14 only).\n -\n PAC files re-written / optimized.\n -\n Settings bundle re-designed.\n -\n Speedy Ads feature added (with CC toggle).\n -\n Supervision spoofing is no longer required (but remains an option for those wanting to use otaDelay at a later date).\n -\n YouTopia (sinfool) is now bundled with MYbloXX\u00ae.\n -\n noFB renamed to allowFB for clarity.\n -\n --------------------------------------\n -\n ~ v2.042721\n -\n Added measures to ensure profile doesn't get stuck during re-installation/update if disabled.\n -\n Added unc0ver advisory message during installation.\n -\n Changed how configd is restarted when toggled.\n -\n Cleaned up inst code.\n -\n Modified the CC icon (a little smaller).\n -\n MYbloXX\u00ae Data+ Added: Take further control of your data/privacy by using the MYbloXX\u00ae Data+ addon to enable/disable Wi-Fi and/or cellular data on an app by app basis. Settings > Cellular > Choose App.\n -\n otaDelay Added: This profile is the same profile that was used recently to OTA update from <14.2.1 to 14.3 by enforcing a 90 day delay on your device... You'll benefit from this in the future if a jailbreak is released for an unsigned version that falls within the 90 day delay update window. More information will follow regarding this if/when that happens.\n -\n OTA Disabler / Enabler: Similar to iCleaner Pro and other OTA disabling tweaks, OTA Disabler / Enabler provides a one-click solution to quickly enable/disable OTA updates at a system-level.\n -\n Refresh Connection Cache Added: This has been added to allow the user quick access to clear their connection cache by restarting configd and mDNSResponder. Although not needed, if you think your connection is lagging, this will keep things running smoothly and could potentially help with those that want to stay on u0 6.1.2 (not recommended).\n -\n --------------------------------------\n -\n ~ v2.040821\n -\n 14.3 update loophole added for one-click convenience.\n -\n Banners / Logo redesigned.\n -\n CC toggles further improved to shorten time between status changes (delay).\n -\n Changes to preinst to ensure everything related to MYbloXX\u00ae from older versions is cleared / removed prior to installing the new package.\n -\n Enable / Disable SafariBlocker option added.\n -\n Scripts optimized.\n -\n --------------------------------------\n -\n ~ v2.040221\n -\n Added \u201cdon\u2019t trip\u201d messages to script about yellow/red message during installation/removal.\n -\n Changed the look of the Control Center toggle.\n -\n Fancy installation script removed for the sake of Substitute.\n -\n Fixed buttons on CoolStar jailbreaks.\n -\n Fixed Killed: 9 bug on u0 / Substitute.\n -\n Removed MYbloXX\u00ae Cleaner as a dependency / Added as a conflict to automatically remove the package on update... (No longer needed) - This was temporary... You may or may not have this installed currently.\n -\n Updated for Taurine jailbreak.\n -\n Updated SafariBlocker to 1.2.\n -\n --------------------------------------\n -\n ~ v2.033021\n -\n Added a separate package for users on iOS 11 & 12 (includes TabBlocker).\n -\n Added a separate package for users on iOS 13+ (includes SafariBlocker).\n -\n Added 'Debugging Tool' section to be used for reporting when requested by myself.\n -\n Added informative FYI pop-ups to profile installation buttons.\n -\n Added / re-wrote details to user facing installation scripts.\n -\n BETA profile added for iOS 14 ONLY (DNS) - (iOS 13+ package).\n -\n Buttons in Settings now work on all iOS versions/jailbreaks.\n -\n Buttons in Settings are now dynamic and will show depending on current status.\n -\n Changed the method used to enable/disable MYbloXX\u00ae. The toggles will now work on ALL versions of iOS without breaking Safari/browser connections.\n -\n Changed the profile installation fetch method to direct links rather than \"slide to install\" to fix iPad issues.\n -\n Commands now run from a .sh script outside of postinst/postrm.\n -\n Control Center toggle added to easily enable/disable MYbloXX\u00ae blocking.\n -\n Exchanged SafariBlocker for TabBlocker - (iOS 11 - 12 package).\n -\n ldrestart is no longer required. Profiles can be installed immediately after installation as well as on-the-fly spoofing changes.\n -\n LetMeBlock has been removed as a conflict to allow those that need to modify/use their hosts file to access content in geo-restricted areas etc.\n -\n MYXX FM\u2122 now opens with \uf8ffMusic for immediate listening - (iOS 13+ package).\n -\n Overall changes within Settings bundle.\n -\n PAC + noFB and PAC + noXXX have been added to profile selections.\n -\n P2Kdev support section added to Settings bundle - (iOS 13+ package).\n -\n P2Kdev support section removed from Settings bundle - (iOS 11 - 12 package).\n -\n Removed confirmation prompts from Control Center toggles - Now dynamic / immediate.\n -\n Removed noOTA profile due to upcoming expiration date (04/01/21) - To be re-added at a later date.\n -\n Scripts have been stripped to a bare minimum for the sake of Substitute.\n -\n Soft Reboot button has been removed (no longer required).\n -\n TabBlocker updated for iOS 14 (now SafariBlocker by P2KDev) - (iOS 13+ package).\n -\n Updated SafariBlocker to 1.1.1\n -\n --------------------------------------\n -\n ~ v2.020121\n -\n Fixed additional checkra1n issues that were caused by certain commands. \n -\n Fixed TabBlocker Preferences bundle hijack issue for some users (TabBlocker now has its own section as well as inside of the MYbloXX\u00ae bundle). \n -\n Removed launchctl reboot userspace commands and reverted to ldrestart for the time-being until Coolstar fully fixes Chimera/Odyssey officially. \n -\n Small UI changes. \n -\n Switched from sbreload to killall -9 backboardd to fix crashing app issue on checkra1n after installation.\n -\n --------------------------------------\n -\n ~ v2.013121\n -\n Fixed (Cancel) button colors. \n -\n Fixed Disable Profile link. \n -\n Fixed Header in Settings for light mode users.\n -\n --------------------------------------\n -\n ~ v2.013021\n -\n Fixed \uf8ffMusic and AirDrop \n -\n Package will no longer trigger an automatic ldrestart upon successful installation. Prompts have been added in Settings - MYbloXX\u00ae. \n -\n Switched from ldrestart to official launchctl reboot userspace support. Chimera/Odyssey users: Although userspace is \u201cfixed\u201d according to Coolstar, I have included a hacky solution that will always ensure you\u2019re booted back into a jailbroken state. \n -\n Added confirmation prompts to all sections in MYbloXX\u00ae settings. \n -\n General visual overhaul. \n -\n FAQ | User Guide link added. \n -\n MYbloXX\u00ae Access Tester added - A quick easy way to check if MYbloXX\u00ae is enabled on your device. \n -\n Soft Reboot button changed/added - Easily perform a userspace reboot. \n -\n sinfool section added.\n -\n --------------------------------------\n -\n ~ v1.121820\n -\n Ad/Issue reporting has been moved to the Settings bundle. \n -\n Enable/Disable options added. \n -\n isSupervisedBeGone has been replaced with on-the-fly buttons within the Settings bundle. You can spoof/remove \"supervision\" / \"the message\" with ease. \n -\n ldrestart button has been added to the Settings bundle for quick access. \n -\n MYbloXX\u00ae Legacy profile added (for iOS 12 and BELOW only). \n -\n Overall visual overhaul. \n -\n TabBlocker settings have been moved into their own category within the Settings bundle. \n -\n --------------------------------------\n -\n ~ v1.101220\n -\n Initial release.\n -",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "4.020822-14",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "MYXXdev\u2122",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "DismissProgress",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Dismiss installation window without closing cydia.",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Dismiss installation window without closing cydia.",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.1.1",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "PoomSmart",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "SwipeForMore",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Manage packages in Cydia via swipe.",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Manage packages in Cydia via swipe.",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.2.1",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "PoomSmart",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "CocoaTop64",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Process Viewer for iOS 10-13",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Process Viewer for iOS 10-13",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "2.2.3",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "Domo <domo@rambler.ru>",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "AppStore++ (No Ads)",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Allows you to downgrade/upgrade apps in the AppStore on iOS 11-15.whatever. This version removes ads.",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Allows you to downgrade/upgrade apps in the AppStore on iOS 11-15.whatever. This version removes ads.",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "0.9.18k",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "CokePokes",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "AppSync Unified",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Enables the ability to install unsigned/fakesigned iOS applications.",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Enables the ability to install unsigned/fakesigned iOS applications.",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "104.0",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "Karen, Linus Yang",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "AudioRecorder XS (iOS 12/13/14)",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Most Advanced iOS Call Recorder Ever!",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Most Advanced iOS Call Recorder Ever!",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "3.8-12",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "Elias Limneos",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "BigShotJb (iOS 11-14)",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "A way to take screenshots of full vertical scrollable area of the screen. Capture via Activator trigger. ",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "A way to take screenshots of full vertical scrollable area of the screen. Capture via Activator trigger. ",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "0.0.2-3",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "Tapan Thaker (tapthaker)",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "CrackerXI+",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Decrypts iOS Apps",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Decrypts iOS Apps",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.1.16",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "malhaar1, ipast0re",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Crane",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Multiple containers for your applications!",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Multiple containers for your applications!",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.2.7",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "opa334",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Filza Crack",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Activates Filza on your device. REQUIRES 64-BIT VERSION OF FILZA!",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Activates Filza on your device. REQUIRES 64-BIT VERSION OF FILZA!",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "3.9.0-2",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "Netskao",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Harpy Reloaded",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "An application to manage your local network",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "An application to manage your local network",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.0.1k",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "MidnightChips <midnightchips@gmail.com>",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "KBPro",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Select, copy, paste.",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Select, copy, paste.",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "2.0.1",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "Ginsu",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Limneos Crack",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Limneos crack.",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Limneos crack.",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "2.0.2",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "Julioverne",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Orion",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "An All-In-One Tweak For iOS 13.0 - 14.5",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "An All-In-One Tweak For iOS 13.0 - 14.5",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.2",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "John Zarogiannis <johnzrgnns@gmail.com>",
+                    "class": "DepictionTableTextView"
+                }
+            ],
+            "class": "DepictionStackView"
+        }
+    ]
+}
