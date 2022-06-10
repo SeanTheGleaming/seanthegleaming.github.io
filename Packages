@@ -761,27 +761,6 @@ sha1: eb285ba54be38da827ea65a8a11570fd8c688317
 sha256: 45e8a716cb2e1897676ab8732e183a68f1f977775b14decc9a624da63e5af3d0
 Depiction: seanthegleaming.github.io/depictions/?p=net.limneos.simpleactivationactions
 
-Package: net.limneos.voicechangerx
-Name: VoiceChanger XS (iOS 11/12/13)
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.hackyouriphone.limneosos, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
-Architecture: iphoneos-arm
-Icon: file:///Library/PreferenceBundles/voicechanger.bundle/icon@2x.png
-Description: Change your voice during a call!
-Depiction: http://limneos.net/cydia/depiction.php?package=net.limneos.voicechangerx
-Maintainer: Elias Limneos <limneoselias@gmail.com>
-Author: Elias Limneos <limneoselias@gmail.com>
-Section: Tweaks
-MainLibMD5: 111cbc67af5e7db835ec3e122e57d9e1
-Version: 2.2-94
-Installed-Size: 1440
-Filename: debs\net.limneos.voicechangerx_2.2-94_iphoneos-arm.deb
-Size: 244800
-md5: eabd1eafdae39815f81a0d9591247041
-sha1: ed81561fabde54b61f92028348e1a545e16687ec
-sha256: c3bb14a0cbc3e0a539ce0b089b5102eb33f49c2a89723233535698ce26012b61
-Depiction: seanthegleaming.github.io/depictions/?p=net.limneos.voicechangerx
-
 Package: net.myxxdev.mybloxx14
 Name: MYbloXX (iOS 14+)
 Pre-Depends: dpkg
