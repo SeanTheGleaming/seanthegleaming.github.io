@@ -132,6 +132,24 @@ sha1: 36acad04b82db75d345c91ee363a27eb4d602a27
 sha256: f1e6087494618183f7539bba3a38ee88608383868cfcd524f99b46d7e7a27a47
 Depiction: seanthegleaming.github.io/depictions/?p=com.exile90.icleanerpro
 
+Package: com.hackyouriphone.crux
+Name: crux
+Version: 1.0.0
+Depends: firmware (>= 9.0)
+Architecture: iphoneos-arm
+Author: CreatureSurvive <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=crux
+Section: Tweaks
+Description: run any command as root. `crux /usr/bin/dpkg install com.creaturcoding.crux`
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=crux
+Maintainer: iLeoLion <repo@hackyouriphone.org>
+Filename: debs\com.hackyouriphone.crux_iphoneos-arm.deb
+Size: 2860
+md5: 1e3e2c79e38aeea3502b60bdf9129b20
+sha1: 1095bd17bb7e66902a25613a9be854c3c2ce2a9d
+sha256: 758213461ab349218078e02199260dbdcc709fc4fb228c78dc415080599297f2
+Depiction: seanthegleaming.github.io/depictions/?p=com.hackyouriphone.crux
+
 Package: com.hackyouriphone.relocatereborn
 Name: Relocate Reborn
 Version: 1.0.1
