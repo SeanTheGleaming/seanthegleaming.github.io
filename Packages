@@ -17,29 +17,6 @@ sha1: 28591181366af993e47a7451a1875823b9ed3203
 sha256: aad5b6356b19fa79b08258a87675fe35ea77f38efa2deb1589bfd63de145ed6e
 Depiction: seanthegleaming.github.io/depictions/?p=app.enmity
 
-Author: AeonLucid <aeonlucid@gmail.com>
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Name: PicaHide
-Package: com.aeonlucid.snaphide2
-Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000)
-Conflicts: com.aeonlucid.snaphide, com.cokepokes.phantom
-Section: Tweaks
-Installed-Size: 536
-Version: 1.4.4
-Architecture: iphoneos-arm
-Description: Disables Snapchat jailbreak / tweak detection.
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=snaphide2Dp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=snaphide2Dp
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: aeonlucid
-Tag: purpose::extension, compatible::ios13
-Filename: debs\com.aeonlucid.snaphide2_1.4.4_iphoneos-arm.deb
-Size: 98226
-md5: ede3fb13cf500c38334a9488469ef145
-sha1: 811c6bceed97e1c4bdaba59ac122f57a553ce564
-sha256: 2fe1f05aa83b7e0986b8f824b7332f7d0ea8506be12d202ff0f54cdb1d04e389
-Depiction: seanthegleaming.github.io/depictions/?p=com.aeonlucid.snaphide2
-
 Author: saurik, Cannathea <csupport@cannathea.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: Apple File Conduit "2" (iOS 11+, arm64)
