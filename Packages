@@ -43,28 +43,6 @@ sha1: c8c574c1581d61675c05c7cc7c6c427231b3eaef
 sha256: c0871d4c9c35190c83b4c73fa236668662f5d996eed1cb981395483c0cf2467a
 Depiction: seanthegleaming.github.io/depictions/?p=com.cannathea.afc2d-arm64
 
-Package: com.dave1482.powerapp
-Pre-Depends: firmware (>= 8.0), system-cmds, shell-cmds, coreutils
-Conflicts: com.dave1482.powerappbeta
-Name: PowerApp
-Version: 6.1.1
-Architecture: iphoneos-arm
-Description: Reboot, Shutdown, Respring, go into Safemode
-Maintainer: dave1482 <dave1482@dave1482.com>
-Author: dave1482 <dave1482@dave1482.com>
-Section: Utilities
-Icon: https://img.chariz.cloud/icon/powerapp/icon@3x.png
-Header: https://img.chariz.cloud/sileo-banner/powerapp.jpg
-Depiction: https://chariz.com/get/powerapp
-Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
-Installed-Size: 1488
-Filename: debs\com.dave1482.powerapp_6.1.1_iphoneos-arm.deb
-Size: 562100
-md5: 77a6208b6a901494c2573436de44db91
-sha1: 7f21ba94ee71f2e16b2023dba3360c86ff458743
-sha256: e5753f3f6e09d80f3c5a3b2e81f5bb82fbbd372cb35a88e01e6cb73beb97a090
-Depiction: seanthegleaming.github.io/depictions/?p=com.dave1482.powerapp
-
 Package: com.ex.substitute
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner
