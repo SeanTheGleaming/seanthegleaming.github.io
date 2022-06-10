@@ -141,15 +141,15 @@ Architecture: iphoneos-arm
 Author: Nepeta <repo@hackyouriphone.org>
 Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=relocatereborn
 SileoDepiction: https://depiction.hackyouriphone.org/sileoDepiction.php?filename=relocatereborn
-Section: HYI - Tweaks
+Section: Tweaks
 Description: Minimalist GPS spoofer (free, iOS 13+)
 Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=relocatereborn
 Maintainer: HackYouriPhone <repo@hackyouriphone.org>
 Filename: debs\com.hackyouriphone.relocatereborn_1.0.1_iphoneos-arm.deb
-Size: 116990
-md5: 3aa8f9e0cc54644afa99a616fe685476
-sha1: 3b2b6bc3fc363bf7bf656140f5bf9b99bf494735
-sha256: 5cdac011904efd33bdc17a6abe1bbfe45c32dc80dbaaadfaa93b188d500b4e24
+Size: 69796
+md5: 32d633027c3e67370787ecd70a35aca4
+sha1: d46e3a697549b76704b260db8875a25194ea2e2b
+sha256: 93b4b47665ece0235801c4ecd1298c9ddb7165963437df959d84aba96b5ba01c
 Depiction: seanthegleaming.github.io/depictions/?p=com.hackyouriphone.relocatereborn
 
 Package: com.jailbreak365.autoapollo2
