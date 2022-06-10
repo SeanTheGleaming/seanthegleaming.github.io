@@ -787,6 +787,25 @@ sha1: ed81561fabde54b61f92028348e1a545e16687ec
 sha256: c3bb14a0cbc3e0a539ce0b089b5102eb33f49c2a89723233535698ce26012b61
 Depiction: seanthegleaming.github.io/depictions/?p=net.limneos.voicechangerx
 
+Package: net.myxxdev.mybloxx14
+Name: MYbloXX (iOS 14+)
+Pre-Depends: dpkg
+Depends: com.opa334.ccsupport, com.opa334.libundirect, curl, firmware (>=13.0), firmware (<=15.0), mobilesubstrate, plutil, preferenceloader, ws.hbang.common
+Conflicts: com.ceadd.blockyoux-procursus, com.ceadd.blockyoux, com.ceadd.blockyou10, com.ceadd.blockyou11, com.ceadd.blockyou12, com.droomone.tabblocker, com.git-anish.mdnsrestart, com.nathanaccidentally.mdnsflush, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic, com.p2kdev.safariblocker, com.reddestdream.minimalhostsblocker, com.reddestdream.mhbcb, com.sinfool.youtopia, com.thireus.hostscleaner, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblockermegaipv4, com.thireus.untrustedhostsblockermega, com.thireus.untrustedhostsblockerexperimental, net.myxxdev.mybloxx, net.myxxdev.mybloxx10, net.myxxdev.mybloxx11, net.myxxdev.mybloxx13, net.myxxdev.mybloxx14, net.myxxdev.mybloxx4, net.myxxdev.mybloxxlite13, net.myxxdev.mybloxxlite14, net.myxxdev.issupervisedbegone, net.myxxdev.mybloxxhipfix, net.myxxdev.mybloxxupdater
+Architecture: iphoneos-arm
+Description: An AUTO-UPDATING Ad Blocker! (Description vastly cut short due to recurring corruption)
+Maintainer: MYXXdev
+Author: MYXXdev
+Section: Networking
+Replaces: com.droomone.tabblocker, com.p2kdev.safariblocker, net.myxxdev.issupervisedbegone, net.myxxdev.mybloxx, net.myxxdev.mybloxx10, net.myxxdev.mybloxx11, net.myxxdev.mybloxx13, net.myxxdev.mybloxx14, net.myxxdev.mybloxx4, net.myxxdev.mybloxxlite13, net.myxxdev.mybloxxlite14, net.myxxdev.mybloxxhipfix, net.myxxdev.mybloxxupdater
+Version: 4.020822-14
+Installed-Size: 2588
+Filename: debs\net.myxxdev.mybloxx14_4.020822-14_iphoneos-arm.deb
+Size: 208436
+md5: c23b0172e5ac87f7b5da8cf6b15a194d
+sha1: cf44170f9b183176ad46333511ec66660d7b4e8b
+sha256: 8c324599763d9bab9609e68161f1455f24d5725183553a76a9d4ba55f6a78670
+Depiction: seanthegleaming.github.io/depictions/?p=net.myxxdev.mybloxx14
 
 Name: DismissProgress
 Package: org.thebigboss.dismissprogress
