@@ -17,6 +17,51 @@ sha1: 28591181366af993e47a7451a1875823b9ed3203
 sha256: aad5b6356b19fa79b08258a87675fe35ea77f38efa2deb1589bfd63de145ed6e
 Depiction: seanthegleaming.github.io/depictions/?p=app.enmity
 
+Package: com.a3tweaks.flipswitch
+Name: Flipswitch
+Depends: mobilesubstrate (>= 0.9.5001), com.rpetrich.rocketbootstrap (>= 1.0.9) | firmware (<< 7.0)
+Conflicts: com.rpetrich.donotdisturbtoggle (<= 1.0-1), com.jerryen.rotationlockflipswitch, com.jakeashacks.realcc (<< 1.0.2)
+Replaces: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift, com.jakeashacks.realcc (<< 1.0.2)
+Provides: com.jerryen.rotationlockflipswitch, tw.garynil.ccfixer93, tw.hiraku.nightshift
+Architecture: iphoneos-arm
+Description: Centralized toggle system for iOS
+Homepage: https://rpetrich.com/cydia/flipswitch/
+Depiction: https://rpetrich.com/cydia/flipswitch/
+Author: rpetrich <rpetrich+flipswitch@gmail.com>
+Maintainer: rpetrich & a3tweaks <rpetrich+flipswitch@gmail.com>
+Section: System
+Tag: purpose::extension, role::developer
+Icon: file:///Applications/Preferences.app/icon-table.png
+dev: flipswitch
+Version: 1.0.16
+Installed-Size: 2408
+Filename: debs\com.a3tweaks.flipswitch_1.0.16_iphoneos-arm.deb
+Size: 300972
+md5: 516996c64c4bc054b5b4a67fcfba5a9c
+sha1: d17d8a66c9d05739dbedc7255530462bdbc4863f
+sha256: 2dab7e1ee02a638d49342b956b554c24fb4191168e43c91f57b3394926566ed6
+Depiction: seanthegleaming.github.io/depictions/?p=com.a3tweaks.flipswitch
+
+Package: com.artikus.preferenceloader
+Name: PreferenceLoader
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: A lightweight and modern alternative to Dustin Howett's PreferenceLoader.
+Maintainer: ArtikusHG
+Author: ArtikusHG
+Section: System
+Replaces: preferenceloader
+Provides: preferenceloader (= 2.2.6)
+Conflicts: preferenceloader
+Version: 1.0.16
+Installed-Size: 448
+Filename: debs\com.artikus.preferenceloader_1.0.16_iphoneos-arm.deb
+Size: 41304
+md5: 6461939ee596a01c0fef0c0c01ceb180
+sha1: d2d04ff8457a49f9c8afc87d3ea5d8097376fdfb
+sha256: 65ba9b23d61c23769d78bbdd4d1e0d4db6a18cb4ae93b811b85402b12628b4f1
+Depiction: seanthegleaming.github.io/depictions/?p=com.artikus.preferenceloader
+
 Author: saurik, Cannathea <csupport@cannathea.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: Apple File Conduit "2" (iOS 11+, arm64)
@@ -125,6 +170,32 @@ sha1: d46e3a697549b76704b260db8875a25194ea2e2b
 sha256: 93b4b47665ece0235801c4ecd1298c9ddb7165963437df959d84aba96b5ba01c
 Depiction: seanthegleaming.github.io/depictions/?p=com.hackyouriphone.relocatereborn
 
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
+Name: PowerSelector (iOS 11 to 14)
+Package: com.ichitaso.powerselector11
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Section: Utilities
+Architecture: iphoneos-arm
+Description: The power supply relation of a device is operated.
+Depiction: https://cydia.ichitaso.com/depiction/powerselector11.html
+Homepage: https://cydia.ichitaso.com/depiction/powerselector11.html
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: ichitaso
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
+Version: 1.3.4
+Installed-Size: 2556
+Filename: debs\com.ichitaso.powerselector11_1.3.4_iphoneos-arm.deb
+Size: 218666
+md5: a64a7e5bd7b7cf9ae075dc8ef6b7cced
+sha1: d18c4ae2d242712ca5a79b339ef2077b58c2a0ad
+sha256: 3835e9084ebe79fbad7d2864b0677a875a90a8e9b9153481f63d9a84a6a4eae6
+Depiction: seanthegleaming.github.io/depictions/?p=com.ichitaso.powerselector11
+
 Package: com.jailbreak365.autoapollo2
 Name: AutoApollo2 (A12)
 Depends: mobilesubstrate
@@ -199,6 +270,27 @@ md5: 2aa7b47978971c7285944d5a1ddea2f1
 sha1: 2722f6b0af88de9e752238ddaf689be7a61a8408
 sha256: 0b11a85f9a06848c89b32bdb220925a7aa2e38ee7a6b6e46e7440a1d94825dd2
 Depiction: seanthegleaming.github.io/depictions/?p=com.julioverne.cydown
+
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=localeutf8Dp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=localeutf8Dp
+Author: Linus Yang <laokongzi@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Locale Profiles in UTF-8
+Package: com.linusyang.localeutf8
+Depends: profile.d
+Section: System
+Installed-Size: 186
+Version: 1.0-1
+Architecture: iphoneos-arm
+Description: UTF-8 locale files for en_US and zh_CN
+dev: laokongzi
+Tag: purpose::console, role::hacker
+Filename: debs\com.linusyang.localeutf8_1.0-1_iphoneos-arm.deb
+Size: 5448
+md5: 44518f7af981fa092bc20a24976a0c7f
+sha1: 45e005d644f4eff178e6eed37a9c1f76c35ac941
+sha256: 6339ffcaf3e44f4c1e3821405032cfb961e0952940f8a1b76a357a9dbecdf548
+Depiction: seanthegleaming.github.io/depictions/?p=com.linusyang.localeutf8
 
 Package: com.miro.uyou
 Name: uYou
