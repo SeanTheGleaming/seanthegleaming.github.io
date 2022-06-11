@@ -1,4 +1,3 @@
-Package: am.ldid
 Section: Utilities
 Maintainer: TIGI Software <info@tigisoftware.com>
 Architecture: iphoneos-arm
@@ -15,7 +14,6 @@ sha1: eb9e3b6039c7a7bcd2c3f31fadb5466a802bccff
 sha256: 38cd97505091488f98e1847edb3c8d713273578364ad517a89eb89b0bdea29fa
 Depiction: seanthegleaming.github.io/depictions/?p=am.ldid
 
-Package: app.enmity
 Name: Enmity
 Architecture: iphoneos-arm
 Description: The power of addons, all in your hand.
@@ -34,7 +32,6 @@ sha1: 28591181366af993e47a7451a1875823b9ed3203
 sha256: aad5b6356b19fa79b08258a87675fe35ea77f38efa2deb1589bfd63de145ed6e
 Depiction: seanthegleaming.github.io/depictions/?p=app.enmity
 
-Package: applist
 Name: AppList
 Architecture: iphoneos-arm
 Description: Allow extensions to read the list of installed apps
@@ -55,7 +52,6 @@ sha1: 843d2b873ad29a848c701af51f2e8a524770bc3a
 sha256: b20901679ecd9a607636dd69d1c42fe074f6a3e8a5c21c20ecef893f1a9a4a7e
 Depiction: seanthegleaming.github.io/depictions/?p=applist
 
-Package: arpoison
 Section: System
 Maintainer: MidnightChips <midnightchips@gmail.com>
 Author: MidnightChips <midnightchips@gmail.com>
@@ -73,7 +69,6 @@ sha1: 419fe15ad42a9eb1b5a492f1feabdceb7b1a4715
 sha256: ad2521bea69929c7c2162536a013c4db766250ca3a9bd554a4284ba29944907c
 Depiction: seanthegleaming.github.io/depictions/?p=arpoison
 
-Package: com.a3tweaks.flipswitch
 Name: Flipswitch
 Depends: mobilesubstrate (>= 0.9.5001), com.rpetrich.rocketbootstrap (>= 1.0.9) | firmware (<< 7.0)
 Conflicts: com.rpetrich.donotdisturbtoggle (<= 1.0-1), com.jerryen.rotationlockflipswitch, com.jakeashacks.realcc (<< 1.0.2)
@@ -98,7 +93,6 @@ sha1: d17d8a66c9d05739dbedc7255530462bdbc4863f
 sha256: 2dab7e1ee02a638d49342b956b554c24fb4191168e43c91f57b3394926566ed6
 Depiction: seanthegleaming.github.io/depictions/?p=com.a3tweaks.flipswitch
 
-Package: com.artikus.preferenceloader
 Name: PreferenceLoader
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
@@ -121,7 +115,6 @@ Depiction: seanthegleaming.github.io/depictions/?p=com.artikus.preferenceloader
 Author: saurik, Cannathea <csupport@cannathea.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: Apple File Conduit "2" (iOS 11+, arm64)
-Package: com.cannathea.afc2d-arm64
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: cy+cpu.arm64, mobilesubstrate, ldid
 Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
@@ -145,7 +138,6 @@ sha256: c0871d4c9c35190c83b4c73fa236668662f5d996eed1cb981395483c0cf2467a
 Depiction: seanthegleaming.github.io/depictions/?p=com.cannathea.afc2d-arm64
 
 Name: libnotifications
-Package: com.cokepokes.libnotifications
 Priority: optional
 Depends: firmware (>= 8.0)
 Version: 0.3-4
@@ -167,7 +159,6 @@ sha1: 12cf898184fa44b300d4fc127638757b7dc96389
 sha256: 286b89de309bdae2eb500e66bab4f737233157a78423dfef88b5038b5459de2f
 Depiction: seanthegleaming.github.io/depictions/?p=com.cokepokes.libnotifications
 
-Package: com.ex.substitute
 Architecture: iphoneos-arm
 Maintainer: Sam Bingner
 Pre-Depends: coreutils-bin, dpkg (>=1.17.11)
@@ -190,7 +181,6 @@ sha1: a81d695d6f001db3a919d064bb33bb658a8a5c79
 sha256: ab5295ed618a629a4d53bfc719a6a679f2eb6a77f30dc9dc726eafabe5e47fc2
 Depiction: seanthegleaming.github.io/depictions/?p=com.ex.substitute
 
-Package: com.exile90.icleanerpro
 Name: iCleaner Pro
 Description: The first real iOS system cleaner & optimizer
 Author: Ivano Bilenchi <support@ib-soft.net>
@@ -211,7 +201,6 @@ sha1: 36acad04b82db75d345c91ee363a27eb4d602a27
 sha256: f1e6087494618183f7539bba3a38ee88608383868cfcd524f99b46d7e7a27a47
 Depiction: seanthegleaming.github.io/depictions/?p=com.exile90.icleanerpro
 
-Package: com.hackyouriphone.crux
 Name: crux
 Version: 1.0.0
 Depends: firmware (>= 9.0)
@@ -229,7 +218,6 @@ sha1: 1095bd17bb7e66902a25613a9be854c3c2ce2a9d
 sha256: 758213461ab349218078e02199260dbdcc709fc4fb228c78dc415080599297f2
 Depiction: seanthegleaming.github.io/depictions/?p=com.hackyouriphone.crux
 
-Package: com.hackyouriphone.relocatereborn
 Name: Relocate Reborn
 Version: 1.0.1
 Depends: mobilesubstrate, ws.hbang.common (>= 1.14), firmware (>= 13.0), applist | com.hackyouriphone.applist, com.rpetrich.rocketbootstrap | com.hackyouriphone.rocketbootstrap (>= 0.1.7), preferenceloader
@@ -252,7 +240,6 @@ Depiction: seanthegleaming.github.io/depictions/?p=com.hackyouriphone.relocatere
 Author: ichitaso <willfeeltips+ps11@gmail.com>
 Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
 Name: PowerSelector (iOS 11 to 14)
-Package: com.ichitaso.powerselector11
 Pre-Depends: firmware (>= 11.0)
 Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
 Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
@@ -275,7 +262,6 @@ sha1: d18c4ae2d242712ca5a79b339ef2077b58c2a0ad
 sha256: 3835e9084ebe79fbad7d2864b0677a875a90a8e9b9153481f63d9a84a6a4eae6
 Depiction: seanthegleaming.github.io/depictions/?p=com.ichitaso.powerselector11
 
-Package: com.jailbreak365.autoapollo2
 Name: AutoApollo2 (A12)
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
@@ -297,7 +283,6 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccmodulesD
 Author: jailbreak365 <jailbreak365@mail.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: CCModules
-Package: com.jailbreak365.safeccmodules
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
 Section: Addons (ControlCenter)
 Installed-Size: 5131
@@ -313,7 +298,6 @@ sha1: 071c8b08fbfb3bc816121a2af6f2c2a7d6db9c49
 sha256: e32c31dd327daf2466119cdceafab191f7fc9aa931b506bbcee43a27b8df15ba
 Depiction: seanthegleaming.github.io/depictions/?p=com.jailbreak365.safeccmodules
 
-Package: com.julioverne.cracktool4
 Name: CrackTool4 (iOS 9 - 14)
 Version: 4.0~beta10b
 Architecture: iphoneos-arm
@@ -331,7 +315,6 @@ sha1: e68eb669ff438e4f31d9b1bdf64c079aef92209e
 sha256: 095ded92a8a860d2bac3c0640c7f87357698c862434a69f3cd6764e11f2e34db
 Depiction: seanthegleaming.github.io/depictions/?p=com.julioverne.cracktool4
 
-Package: com.julioverne.cydown
 Name: CyDown
 Author: julioverne 
 Version: 7.1.2
@@ -355,7 +338,6 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=localeutf8
 Author: Linus Yang <laokongzi@gmail.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: Locale Profiles in UTF-8
-Package: com.linusyang.localeutf8
 Depends: profile.d
 Section: System
 Installed-Size: 186
@@ -371,7 +353,6 @@ sha1: 45e005d644f4eff178e6eed37a9c1f76c35ac941
 sha256: 6339ffcaf3e44f4c1e3821405032cfb961e0952940f8a1b76a357a9dbecdf548
 Depiction: seanthegleaming.github.io/depictions/?p=com.linusyang.localeutf8
 
-Package: com.miro.uyou
 Name: uYou
 Depends: firmware (>=13.0), mobilesubstrate, com.miro.uyouimport
 Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere
@@ -392,7 +373,6 @@ sha1: cdce2f6101d6e1529683b2a04f9eada019ba2f63
 sha256: 4c0858e08d6f00bbffbd6f6a73341102f64b8481aae1629b7d4c094a1a9822bc
 Depiction: seanthegleaming.github.io/depictions/?p=com.miro.uyou
 
-Package: com.miro.uyouimport
 Name: uYouImport
 Depends: firmware (>=13.0), mobilesubstrate
 Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyouimport
@@ -411,7 +391,6 @@ sha1: a56a538d5f69dd766dce72ca1d4acf2b534d7ea4
 sha256: af5581408cda3efd2892650c0bf74ee74e6cfdb84d367447b0fcbfe57a5ddead
 Depiction: seanthegleaming.github.io/depictions/?p=com.miro.uyouimport
 
-Package: com.muirey03.cr4shed
 Name: Cr4shed
 Version: 4.2.2
 Section: Tweaks
@@ -428,7 +407,6 @@ sha1: 8c2aa588cbdfb2bc15cf8a6614bc1af9b3f9a6b1
 sha256: cc189e77794f66930ff4171fbd35ab38956669353d1d925a8f8b8aecd844accf
 Depiction: seanthegleaming.github.io/depictions/?p=com.muirey03.cr4shed
 
-Package: com.muirey03.libmryipc
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0)
 Conflicts: ws.hbang.stopcrashingpls (=1.0)
 Name: libMRYIPC
@@ -453,7 +431,6 @@ Depiction: seanthegleaming.github.io/depictions/?p=com.muirey03.libmryipc
 Author: opa334 <opa334@protonmail.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: AltList
-Package: com.opa334.altlist
 Depends: firmware (>= 7.0)
 Section: Development
 Installed-Size: 306
@@ -475,7 +452,6 @@ Depiction: seanthegleaming.github.io/depictions/?p=com.opa334.altlist
 Author: opa334 <opa334@protonmail.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: CCSupport
-Package: com.opa334.ccsupport
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
 Provides: com.ioscreatix.silo
 Replaces: com.ioscreatix.silo
@@ -500,7 +476,6 @@ Depiction: seanthegleaming.github.io/depictions/?p=com.opa334.ccsupport
 Author: opa334 <opa334@protonmail.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: Choicy
-Package: com.opa334.choicy
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
 Section: Tweaks
 Installed-Size: 1126
@@ -523,7 +498,6 @@ Depiction: seanthegleaming.github.io/depictions/?p=com.opa334.choicy
 Author: opa334 <opa334@protonmail.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: libundirect
-Package: com.opa334.libundirect
 Section: Development
 Installed-Size: 307
 Version: 1.1.3
@@ -541,7 +515,6 @@ sha1: da7fa57f22ca2f0a830af540ff1947f28805800e
 sha256: 5b0d91d02663e96ae3d45c88c71ec3a6be0ffaef31fef8557ae4c49937b1b353
 Depiction: seanthegleaming.github.io/depictions/?p=com.opa334.libundirect
 
-Package: com.opa334.notrecording
 Name: NotRecording
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, applist
 Architecture: iphoneos-arm
@@ -558,7 +531,6 @@ sha1: 77de766802fc786ea5fd71a6fd463cc21941b8d2
 sha256: 82116945ec991a5bf3c4a72b501351544f3284170c67c99ae3f6053cbb14a714
 Depiction: seanthegleaming.github.io/depictions/?p=com.opa334.notrecording
 
-Package: com.ps.amber
 Name: Amber
 Depends: mobilesubstrate, gsc.camera-flash, firmware (>= 11.0)
 Architecture: iphoneos-arm
@@ -577,7 +549,6 @@ sha1: 218b0abe407dc46fb4c76a442fdda611eaa9ca2b
 sha256: 0b0ca458c735e38b6029f770b28e04cef3c1db4ea45dc8d87d08de6689fad16f
 Depiction: seanthegleaming.github.io/depictions/?p=com.ps.amber
 
-Package: com.ps.emojiattributes
 Name: EmojiAttributes
 Depends: firmware (>= 5.1), mobilesubstrate, com.opa334.libundirect (>= 1.0)
 Conflicts: com.ps.flexmoji
@@ -597,7 +568,6 @@ sha1: 45328e84b27f13124d59c5f2ba2e3b00cb116b6f
 sha256: 05fc3f1c3ed7f9cf6ef2362da5fa1d77c9a85ea93671710332e0427bd95c27db
 Depiction: seanthegleaming.github.io/depictions/?p=com.ps.emojiattributes
 
-Package: com.ps.emojifontefm-native
 Name: Emoji iOS 15.4 (EFM) Native
 Depends: com.ps.emojifontmanager, firmware (>= 14.0)
 Conflicts: com.ps.emojifontefm
@@ -617,7 +587,6 @@ sha1: 3aadf9e73ceabc43ad9d675febe2c792bac90c5d
 sha256: f22e66eb3a0b13bd13bffefff39257071fc3725a193e8e2dc5fa15cf191ec259
 Depiction: seanthegleaming.github.io/depictions/?p=com.ps.emojifontefm-native
 
-Package: com.ps.emojifontmanager
 Name: EmojiFontManager
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.ps.emojilibrary, firmware (>= 6.0), ws.hbang.common (>= 1.16)
 Architecture: iphoneos-arm
@@ -637,7 +606,6 @@ sha1: ba1d85eca934881e24335291c8cc109eb475ee67
 sha256: 0842f5475b19f2b10d5400de64472054493af09fcca27dd3f86756aa71848b79
 Depiction: seanthegleaming.github.io/depictions/?p=com.ps.emojifontmanager
 
-Package: com.ps.emojilibrary
 Name: EmojiLibrary
 Architecture: iphoneos-arm
 Description: Master library for PoomSmart's emoji tweaks.
@@ -656,7 +624,6 @@ sha1: d8f852985c1883747981608fd57ea9bdfe42eade
 sha256: 5c35beed45e02ee70b5504df84b6d382045ba48f2ee8541c96635db839dcfe9b
 Depiction: seanthegleaming.github.io/depictions/?p=com.ps.emojilibrary
 
-Package: com.ps.emojiport10resources
 Name: EmojiPort Resources (iOS 10+)
 Depends: firmware (>= 10.0)
 Architecture: iphoneos-arm
@@ -675,7 +642,6 @@ sha1: f04ef268017e8f11e776c5f1a969a51eec56997b
 sha256: 9da6402395575c9a1199b11b6bf4e9252909cb67b54f98c326d18411f9038720
 Depiction: seanthegleaming.github.io/depictions/?p=com.ps.emojiport10resources
 
-Package: com.ps.emojiportpe
 Name: EmojiPort (iOS 12.0-14.8)
 Depends: firmware (>= 12.0), firmware (<< 15.0), com.ps.emojiattributes (>= 1.5.0~b1), com.ps.emojilibrary (>= 1.4.0~b3), com.ps.emojiport10resources (>= 1.3.0~b1)
 Architecture: iphoneos-arm
@@ -698,7 +664,6 @@ Depiction: seanthegleaming.github.io/depictions/?p=com.ps.emojiportpe
 Author: Randy420 <randy.skinner28@outlook.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: 420 Tools
-Package: com.randy420.tools
 Depends: ws.hbang.common, preferenceloader
 Section: Development
 Installed-Size: 2215
@@ -717,7 +682,6 @@ sha1: 53359c0c2e1857644260b06f3f6935431fc31696
 sha256: 9f0c50ed3ceb0fe00255539c441106911dcbc9d0553ed37074063f4d86e7c519
 Depiction: seanthegleaming.github.io/depictions/?p=com.randy420.tools
 
-Package: com.rileytestut.altdaemon
 Name: AltDaemon
 Depends: firmware (>= 12.2)
 Architecture: iphoneos-arm
@@ -737,7 +701,6 @@ sha1: ec653b6067c8dd8daa2d1fad29ebcbb0c054bbbd
 sha256: e30852d1e922dbf83222dd1a35d726491f19ff0f25a4415846638a4f99eac695
 Depiction: seanthegleaming.github.io/depictions/?p=com.rileytestut.altdaemon
 
-Package: com.rpetrich.rocketbootstrap
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
 Name: RocketBootstrap
 Architecture: iphoneos-arm
@@ -759,7 +722,6 @@ sha1: 5839fce38b27e624ab5629d50fd543f30b473615
 sha256: d06e18eefbfcb40f3e3b215bfbccaf34091fb30b2ccb1e4f6c519aa91d2b7248
 Depiction: seanthegleaming.github.io/depictions/?p=com.rpetrich.rocketbootstrap
 
-Package: com.saurik.substrate.safemode
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Name: Substrate Safe Mode
 Description: safe mode safety extension (safe)
@@ -780,7 +742,6 @@ sha1: 8bb7866945dac32ad68648ebf38ca343fa715b7d
 sha256: de3f3c5e0bfde32d61e14daaca7a7899a73215f94753a77fca1aa4203b018c87
 Depiction: seanthegleaming.github.io/depictions/?p=com.saurik.substrate.safemode
 
-Package: com.spark.snowboard
 Name: SnowBoard
 Depends: mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
@@ -803,7 +764,6 @@ sha1: c73ea8b19411e0d635e9c892e259bba55b253325
 sha256: 2cd493870317c776adc5f0ca5ccbaeb3bb7058ae4ec2096e6c2ad97b228badee
 Depiction: seanthegleaming.github.io/depictions/?p=com.spark.snowboard
 
-Package: com.tigisoftware.appdatamanager
 Name: Apps Manager
 Architecture: iphoneos-arm
 Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps
@@ -822,7 +782,6 @@ Depiction: seanthegleaming.github.io/depictions/?p=com.tigisoftware.appdatamanag
 Author: Randy420 <randy.skinner28@outlook.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: VolumeStep13/14
-Package: com.volumestep.randy420
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.randy420.tools (>= 1.7)
 Section: Tweaks
 Installed-Size: 466
@@ -846,7 +805,6 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=addsourceD
 Author: yuosaf01 & 3bod_syr <3body373737@gmail.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: AddSource
-Package: com.yuosaf01.addsource
 Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 8.0), preferenceloader, ws.hbang.common (>= 1.11)
 Section: Tweaks
 Installed-Size: 1094
@@ -862,7 +820,6 @@ sha1: a871dce4a87db07fa8152108220f3bb5574ad567
 sha256: 26e829d3507afba9e95a3a71ed5696152a375690706ae4f3bfb702a87e2d915a
 Depiction: seanthegleaming.github.io/depictions/?p=com.yuosaf01.addsource
 
-Package: dev.theos.orion14
 Name: Orion Runtime (iOS 14)
 Depends: firmware (>= 14.0), firmware (<< 16.0), mobilesubstrate (>= 0.9.5000)
 Provides: dev.theos.orion (= 1.0.0)
@@ -883,7 +840,6 @@ sha1: 37310e0daeb117cb5f21f81521e2295c499dc8e6
 sha256: 0820bd5fed1f3b7c46a270dfc0adf8e73894289b77585fd5812ccb7ebbf8cf05
 Depiction: seanthegleaming.github.io/depictions/?p=dev.theos.orion14
 
-Package: emt.paisseon.apollocrack
 Name: Apollo Ultra Crack
 Architecture: iphoneos-arm
 Description: Apollo Ultra for free. Version 1.2 ONLY supports Apollo 1.13 due to a DRM change. For older versions of Apollo, use Apollo Crack 1.1.
@@ -899,7 +855,6 @@ sha1: 01c3632cf49a2539640efa1bf4c855d56e89d844
 sha256: 8218b64e899f64fadeff53b6e2fbd6a1937a63b81e9c904de3cd9a2fc380d797
 Depiction: seanthegleaming.github.io/depictions/?p=emt.paisseon.apollocrack
 
-Package: emt.paisseon.icleaner
 Name: iCleaner Pro Crack
 Architecture: iphoneos-arm
 Description: iCleaner Pro for free, nanodesu
@@ -916,7 +871,6 @@ sha1: 51fa5dd0cd6998ba697bed0729511997246a7b08
 sha256: 4e62a465830652b5133b90840074d1cf3c1b882174050a9d26babcbf79ba06e5
 Depiction: seanthegleaming.github.io/depictions/?p=emt.paisseon.icleaner
 
-Package: emt.paisseon.respringunlock
 Name: RespringUnlock
 Architecture: iphoneos-arm
 Description: Auto-unlock after respring
@@ -934,7 +888,6 @@ sha1: c2e00eb0896d8ea1d56db09e9bbe3aba9f0f29d8
 sha256: 07d27a174ac17117c2bdef750ae89e33caca55704eb2adbd36a63e5f5d905e3e
 Depiction: seanthegleaming.github.io/depictions/?p=emt.paisseon.respringunlock
 
-Package: emt.paisseon.satella
 Name: Satella 2
 Author: Paisseon
 Maintainer: Paisseon
@@ -956,7 +909,6 @@ sha1: feac1414879a27eed42f602d6cad4335632b3813
 sha256: 381b7bbd0961b0462867b82a385f51bf5496279348de599420aea8419cbd4e9c
 Depiction: seanthegleaming.github.io/depictions/?p=emt.paisseon.satella
 
-Package: libactivator
 Depends: mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch (>= 1.0.16~rc3), com.rpetrich.rocketbootstrap (>= 1.0.9)
 Name: Activator
 Priority: optional
@@ -981,7 +933,6 @@ sha1: a366dce78423356fb52b23e49447fd44d25d62ee
 sha256: 35bde71d2a2d2ef02b7096e513f693744eb27445b8b2a610ce151f783407e8ad
 Depiction: seanthegleaming.github.io/depictions/?p=libactivator
 
-Package: libnet9
 Section: System
 Architecture: iphoneos-arm
 Version: 1.2-1
@@ -998,7 +949,6 @@ sha1: 61983c3050fe4d23257970170ad13ad16b6b38c6
 sha256: 6effe60d1a679dc7a91362c023b75330c4097e5f4a6dbb6608a73fe51b260289
 Depiction: seanthegleaming.github.io/depictions/?p=libnet9
 
-Package: net.limneos.libbulletin
 Name: libbulletin
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
@@ -1015,7 +965,6 @@ sha1: 7fc7c9619954927010cefd667533cd6dcc48e9e2
 sha256: 356f59c842d5110e1e5579a2a9f186ca1c668772e454efaa958e16556503a9f7
 Depiction: seanthegleaming.github.io/depictions/?p=net.limneos.libbulletin
 
-Package: net.limneos.simpleactivationactions
 Name: SimpleActivationActions
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
@@ -1033,7 +982,6 @@ sha1: eb285ba54be38da827ea65a8a11570fd8c688317
 sha256: 45e8a716cb2e1897676ab8732e183a68f1f977775b14decc9a624da63e5af3d0
 Depiction: seanthegleaming.github.io/depictions/?p=net.limneos.simpleactivationactions
 
-Package: net.myxxdev.mybloxx14
 Name: MYbloXX (iOS 14+)
 Pre-Depends: dpkg
 Depends: com.opa334.ccsupport, com.opa334.libundirect, curl, firmware (>=13.0), firmware (<=15.0), mobilesubstrate, plutil, preferenceloader, ws.hbang.common
@@ -1054,7 +1002,6 @@ sha256: 8c324599763d9bab9609e68161f1455f24d5725183553a76a9d4ba55f6a78670
 Depiction: seanthegleaming.github.io/depictions/?p=net.myxxdev.mybloxx14
 
 Name: DismissProgress
-Package: org.thebigboss.dismissprogress
 Depends: firmware (>= 6.0)
 Maintainer: PoomSmart
 Author: PoomSmart
@@ -1071,7 +1018,6 @@ sha256: 69362db9aee63b06d5e71931b336645885777bb1b1fe79cdf0d7998325c55d79
 Depiction: seanthegleaming.github.io/depictions/?p=org.thebigboss.dismissprogress
 
 Name: SwipeForMore
-Package: org.thebigboss.swipeformore
 Maintainer: PoomSmart
 Author: PoomSmart
 Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
@@ -1090,7 +1036,6 @@ Depiction: seanthegleaming.github.io/depictions/?p=org.thebigboss.swipeformore
 Author: Domo <domo@rambler.ru>
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: CocoaTop64
-Package: ru.domo.cocoatop64
 Depends: firmware (>= 10.0)
 Conflicts: ru.domo.cocoatop
 Section: Utilities
@@ -1111,7 +1056,6 @@ sha1: c0721671a1f43a50207d366c42de6e66f0b10293
 sha256: c37aae4fd62c5598fac4b6c2aab519a475404586f506c5324d7d0e9686c613e6
 Depiction: seanthegleaming.github.io/depictions/?p=ru.domo.cocoatop64
 
-Package: ws.hbang.newterm2
 Name: NewTerm 2
 Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.16), bash, coreutils, ncurses, system-cmds, gettext-localizations | com.linusyang.localeutf8
 Conflicts: ws.hbang.newterm, com.lint.ntarrows
@@ -1134,7 +1078,6 @@ sha1: b7137d41b2f51d3a9d6047405ba2f54485694f58
 sha256: 20a7e7716cc1cb088136e92b0128ef12fa57670296023f93f3ec73c7be94916e
 Depiction: seanthegleaming.github.io/depictions/?p=ws.hbang.newterm2
 
-Package: xyz.cypwn.appstoreplusplus
 Maintainer: CyPwn
 Depiction: https://repo.cypwn.xyz/depiction/14
 SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/14
@@ -1163,7 +1106,6 @@ SileoDepiction: https://doms9.github.io/info/appsync.json
 Maintainer: CyPwn
 Provides: appsync
 Replaces: us.hackulo.appsync50
-Package: xyz.cypwn.appsyncunified
 Name: AppSync Unified
 Architecture: iphoneos-arm
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
@@ -1180,7 +1122,6 @@ Depiction: seanthegleaming.github.io/depictions/?p=xyz.cypwn.appsyncunified
 
 
 
-Package: xyz.cypwn.audiorecorderxs
 Maintainer: CyPwn
 Depiction: https://repo.cypwn.xyz/depiction/16
 SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/16
@@ -1204,7 +1145,6 @@ sha256: 4f0a94274334490a08b9cf7521f16cffd9eddbf4e33ae96f7604228a3019fb54
 Depiction: seanthegleaming.github.io/depictions/?p=xyz.cypwn.audiorecorderxs
 
 
-Package: xyz.cypwn.bigshotjb14
 Maintainer: CyPwn
 Depiction: https://repo.cypwn.xyz/depiction/34
 SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/34
@@ -1226,7 +1166,6 @@ sha256: 3581dbf060195a7ba7d993b1bf2acbf03dd417873953af7aeafa37aaa01429ae
 Depiction: seanthegleaming.github.io/depictions/?p=xyz.cypwn.bigshotjb14
 
 
-Package: xyz.cypwn.crackerxi
 Maintainer: CyPwn
 Depiction: https://repo.cypwn.xyz/depiction/605
 SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/605
@@ -1248,7 +1187,6 @@ sha1: 13608e3679b9448016aa921d2f43434d5784f975
 sha256: 8350a82865eb809f49d37c190dd540908454dd3fce441985114f27235536f07e
 Depiction: seanthegleaming.github.io/depictions/?p=xyz.cypwn.crackerxi
 
-Package: xyz.cypwn.crane
 Maintainer: CyPwn
 Depiction: https://repo.cypwn.xyz/depiction/612
 SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/612
@@ -1269,7 +1207,6 @@ sha1: 3cb43fe573ebcdabbba570b71a953016a005dce3
 sha256: 5d300ca678909982c47a8d6b363e4294fed5065557467e69fb4254d573cf5490
 Depiction: seanthegleaming.github.io/depictions/?p=xyz.cypwn.crane
 
-Package: xyz.cypwn.filzacrack
 Maintainer: CyPwn
 Depiction: https://repo.cypwn.xyz/depiction/103
 SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/103
@@ -1293,7 +1230,6 @@ Depiction: seanthegleaming.github.io/depictions/?p=xyz.cypwn.filzacrack
 
 
 
-Package: xyz.cypwn.harpy-reloaded
 Maintainer: CyPwn
 Depiction: https://repo.cypwn.xyz/depiction/124
 SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/124
@@ -1314,7 +1250,6 @@ sha256: bbe87a36407610becd2e246c33d8caea1e722b92eb3eb5595a75c47b5e13c7a8
 Depiction: seanthegleaming.github.io/depictions/?p=xyz.cypwn.harpy-reloaded
 
 
-Package: xyz.cypwn.kbpro
 Maintainer: CyPwn
 Depiction: https://repo.cypwn.xyz/depiction/552
 SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/552
@@ -1333,7 +1268,6 @@ sha1: ea0b37a2593f5bab2d072b45c9a81bcc8159571e
 sha256: dd9b88287f66a944b5a2368416a16ef7eeffcd5628fcb60647a7250b514d732a
 Depiction: seanthegleaming.github.io/depictions/?p=xyz.cypwn.kbpro
 
-Package: xyz.cypwn.limneos
 Priority: optional
 Section: Tweaks
 Installed-Size: 212
@@ -1351,7 +1285,6 @@ sha1: f454b03679f0a5b2b3170d51dfce93ec5afc506a
 sha256: 95221fa3c9fba20a5ffac975697353e58efb7176388af7ac8762e7b83f6bb281
 Depiction: seanthegleaming.github.io/depictions/?p=xyz.cypwn.limneos
 
-Package: xyz.cypwn.orion
 Maintainer: CyPwn
 Depiction: https://repo.cypwn.xyz/depiction/327
 SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/327
@@ -1371,7 +1304,6 @@ sha1: a3c8d284d1a9f6bc5ca25acb9ef1906081d3a48d
 sha256: c1119ded43e76808cdea6a911e83e8c0d637ce395939d5574a32c2526d8449b6
 Depiction: seanthegleaming.github.io/depictions/?p=xyz.cypwn.orion
 
-Package: xyz.cypwn.systeminfo
 Maintainer: CyPwn
 Depiction: https://repo.cypwn.xyz/depiction/482
 SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/482
