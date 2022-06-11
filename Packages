@@ -118,32 +118,6 @@ sha1: d2d04ff8457a49f9c8afc87d3ea5d8097376fdfb
 sha256: 65ba9b23d61c23769d78bbdd4d1e0d4db6a18cb4ae93b811b85402b12628b4f1
 Depiction: seanthegleaming.github.io/depictions/?p=com.artikus.preferenceloader
 
-Author: saurik, Cannathea <csupport@cannathea.com>
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Name: Apple File Conduit "2" (iOS 11+, arm64)
-Package: com.cannathea.afc2d-arm64
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: cy+cpu.arm64, mobilesubstrate, ldid
-Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
-Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
-Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
-Section: System
-Version: 1.1.6-1
-Architecture: iphoneos-arm
-Description: Allow full file-system access over USB for all arm64 devices, especially useful for those on iOS 11 and above.
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afc2kpplessDp
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afc2kpplessDp
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: cannathea
-Tag: purpose::daemon
-Installed-Size: 539
-Filename: debs\com.cannathea.afc2d-arm64_1.1.6-1_iphoneos-arm.deb
-Size: 12788
-md5: 5c2ee661c5f7e356ce518dc902ef1fb5
-sha1: c8c574c1581d61675c05c7cc7c6c427231b3eaef
-sha256: c0871d4c9c35190c83b4c73fa236668662f5d996eed1cb981395483c0cf2467a
-Depiction: seanthegleaming.github.io/depictions/?p=com.cannathea.afc2d-arm64
-
 Name: libnotifications
 Package: com.cokepokes.libnotifications
 Priority: optional
@@ -267,25 +241,6 @@ md5: 32d633027c3e67370787ecd70a35aca4
 sha1: d46e3a697549b76704b260db8875a25194ea2e2b
 sha256: 93b4b47665ece0235801c4ecd1298c9ddb7165963437df959d84aba96b5ba01c
 Depiction: seanthegleaming.github.io/depictions/?p=com.hackyouriphone.relocatereborn
-
-Package: com.hackyouriphone.signalreborn
-Name: Signal Reborn
-Version: 1.4
-Depends: firmware(>=12.2) | org.swift.libswift (>=5.0)
-Architecture: iphoneos-arm
-Author: Charlie While <repo@hackyouriphone.org>
-Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=signalreborn
-SileoDepiction: https://depiction.hackyouriphone.org/sileoDepiction.php?filename=signalreborn
-Section: Tweaks
-Description: See the map of cell towers around you
-Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=signalreborn
-Maintainer: HackYouriPhone <repo@hackyouriphone.org>
-Filename: debs\com.hackyouriphone.signalreborn_1.4_iphoneos-arm.deb
-Size: 474116
-md5: 942cc979b93caf135d0dd29d94464740
-sha1: 0acd95640f37d872c1db421fe4c528c21d4e5672
-sha256: fdbd3b4945e87d74e9d52166019f835e448b69722858deac2bf9f909afa46111
-Depiction: seanthegleaming.github.io/depictions/?p=com.hackyouriphone.signalreborn
 
 Author: ichitaso <willfeeltips+ps11@gmail.com>
 Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
@@ -487,6 +442,29 @@ md5: 5be4446b36ceeb8f300cefbc10dbcded
 sha1: 0d910e67abf04135102e296519ad8f44f0f41113
 sha256: 206b196b2acae7a0ebe7a82d3197e0f1fd358a1f77138d5e0ca130d67f2cd55e
 Depiction: seanthegleaming.github.io/depictions/?p=com.muirey03.libmryipc
+
+Name: House Arrest Fix
+Package: com.npupyshev.mobile.house-arrest
+Priority: optional
+Depends: firmware (>= 8.3), mobilesubstrate (>= 0.9.5000)
+Version: 1.0.0-6
+Architecture: iphoneos-arm
+Description: access app containers over USB, iTools, iFunbox, etc.
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=housearrestfixDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=housearrestfixDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Pupyshev Nikita <npupyshev@icloud.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios8
+Installed-Size: 64
+dev: npupyshev
+Filename: debs\com.npupyshev.mobile.house-arrest_1.0.0-6_iphoneos-arm.deb
+Size: 2824
+md5: a45b6c139b98bdfb663f7d3365a35e90
+sha1: 285d6036d755d30df6a268b49a4f4a0bfc83b02c
+sha256: bc334d9e09185c24ba0c864689ad5a367311ef60db97ce877db240a0967992da
+Depiction: seanthegleaming.github.io/depictions/?p=com.npupyshev.mobile.house-arrest
 
 Author: opa334 <opa334@protonmail.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
