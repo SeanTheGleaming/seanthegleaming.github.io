@@ -1,3 +1,3 @@
 # seanthegleaming.github.io
 
-Sean's Repo
+just add the source, no time for readme.md
