@@ -237,15 +237,15 @@ Replaces: ldone
 Architecture: iphoneos-arm
 Author: KIIIMO <repo@hackyouriphone.org>
 Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=ldid-plutil
-Section: HYI - Tweaks
+Section: Tweaks
 Description: ldid & plutil
 Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=ldid-plutil
 Maintainer: HackYouriPhone <repo@hackyouriphone.org>
 Filename: debs\com.hackyouriphone.ldid-plutil_611_iphoneos-arm.deb
-Size: 101294
-md5: 68ef2287701a9a6f26c8ae9dd5a6cd81
-sha1: 10c50b36286f4b844623b4f8b233480486f48a95
-sha256: 9fe49eac8258e6b716abb15a6a3cd6e312de6fbfbc91d6084edc951170fcd705
+Size: 71892
+md5: 8167d3208e5e7dd0b79605c2e989aba0
+sha1: 0a6cb1811f1197303854c8d602ea167cc59e7edc
+sha256: 1af55c08f246e8dc906a229e78739a3f19be478367b4f728d9bea84a2a8285bb
 Depiction: seanthegleaming.github.io/depictions/?p=com.hackyouriphone.ldid-plutil
 
 Package: com.hackyouriphone.relocatereborn
