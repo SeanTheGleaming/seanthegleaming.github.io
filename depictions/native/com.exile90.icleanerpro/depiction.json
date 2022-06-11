@@ -1,0 +1,314 @@
+{
+    "minVersion": "0.1",
+    "headerImage": "headerImage",
+    "class": "DepictionTabView",
+    "tintColor": "#0657bb",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "views": [
+                {
+                    "title": "Enmity",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "The power of addons, all in your hand.",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "The power of addons, all in your hand.",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "2.0.1",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "Enmity Team",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "PicaHide",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Disables Snapchat jailbreak / tweak detection.",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Disables Snapchat jailbreak / tweak detection.",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.4.4",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "AeonLucid <aeonlucid@gmail.com>",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Apple File Conduit \"2\" (iOS 11+, arm64)",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Allow full file-system access over USB for all arm64 devices, especially useful for those on iOS 11 and above.",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Allow full file-system access over USB for all arm64 devices, especially useful for those on iOS 11 and above.",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.1.6-1",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "saurik, Cannathea <csupport@cannathea.com>",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "PowerApp",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Reboot, Shutdown, Respring, go into Safemode",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Reboot, Shutdown, Respring, go into Safemode",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "6.1.1",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "dave1482 <dave1482@dave1482.com>",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Substitute",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "Substrate substitute for code substitution",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "Substrate substitute for code substitution",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "2.2.3",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "comex <comexk+da@gmail.com>",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "iCleaner Pro",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "The first real iOS system cleaner & optimizer",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "markdown-description",
+                    "markdown": "The first real iOS system cleaner & optimizer",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Version",
+                    "text": "7.9.1",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-09-2022",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "Ivano Bilenchi <support@ib-soft.net>",
+                    "class": "DepictionTableTextView"
+                }
+            ],
+            "class": "DepictionStackView"
+        }
+    ]
+}
