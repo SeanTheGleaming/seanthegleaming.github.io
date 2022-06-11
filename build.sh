@@ -6,4 +6,4 @@ mothman build seanthegleaming.github.io
 
 
 #uncomment below line to make the terminal stay open after running (it comes in handy when modifying mothman). its a hacky solution, but that's the name of the game with this bs.
-$SHELL
+#$SHELL
