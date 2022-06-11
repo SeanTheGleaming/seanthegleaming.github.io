@@ -118,6 +118,32 @@ sha1: d2d04ff8457a49f9c8afc87d3ea5d8097376fdfb
 sha256: 65ba9b23d61c23769d78bbdd4d1e0d4db6a18cb4ae93b811b85402b12628b4f1
 Depiction: seanthegleaming.github.io/depictions/?p=com.artikus.preferenceloader
 
+Author: saurik, Cannathea <csupport@cannathea.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Apple File Conduit "2" (iOS 11+, arm64)
+Package: com.cannathea.afc2d-arm64
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: cy+cpu.arm64, mobilesubstrate, ldid
+Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Section: System
+Version: 1.1.6-1
+Architecture: iphoneos-arm
+Description: Allow full file-system access over USB for all arm64 devices, especially useful for those on iOS 11 and above.
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afc2kpplessDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=afc2kpplessDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: cannathea
+Tag: purpose::daemon
+Installed-Size: 539
+Filename: debs\com.cannathea.afc2d-arm64_1.1.6-1_iphoneos-arm.deb
+Size: 12788
+md5: 5c2ee661c5f7e356ce518dc902ef1fb5
+sha1: c8c574c1581d61675c05c7cc7c6c427231b3eaef
+sha256: c0871d4c9c35190c83b4c73fa236668662f5d996eed1cb981395483c0cf2467a
+Depiction: seanthegleaming.github.io/depictions/?p=com.cannathea.afc2d-arm64
+
 Name: libnotifications
 Package: com.cokepokes.libnotifications
 Priority: optional
