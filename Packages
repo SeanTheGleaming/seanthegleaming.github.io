@@ -268,6 +268,25 @@ sha1: d46e3a697549b76704b260db8875a25194ea2e2b
 sha256: 93b4b47665ece0235801c4ecd1298c9ddb7165963437df959d84aba96b5ba01c
 Depiction: seanthegleaming.github.io/depictions/?p=com.hackyouriphone.relocatereborn
 
+Package: com.hackyouriphone.signalreborn
+Name: Signal Reborn
+Version: 1.4
+Depends: firmware(>=12.2) | org.swift.libswift (>=5.0)
+Architecture: iphoneos-arm
+Author: Charlie While <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=signalreborn
+SileoDepiction: https://depiction.hackyouriphone.org/sileoDepiction.php?filename=signalreborn
+Section: Tweaks
+Description: See the map of cell towers around you
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=signalreborn
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Filename: debs\com.hackyouriphone.signalreborn_1.4_iphoneos-arm.deb
+Size: 474116
+md5: 942cc979b93caf135d0dd29d94464740
+sha1: 0acd95640f37d872c1db421fe4c528c21d4e5672
+sha256: fdbd3b4945e87d74e9d52166019f835e448b69722858deac2bf9f909afa46111
+Depiction: seanthegleaming.github.io/depictions/?p=com.hackyouriphone.signalreborn
+
 Author: ichitaso <willfeeltips+ps11@gmail.com>
 Maintainer: ichitaso <willfeeltips+ps11@gmail.com>
 Name: PowerSelector (iOS 11 to 14)
@@ -624,16 +643,16 @@ Architecture: iphoneos-arm
 Description: iOS 15.4 Apple Emoji font (EFM, Natively Compressed)
 Maintainer: PoomSmart
 Author: PoomSmart
-Section: Fonts (EFM)
+Section: Fonts
 Depiction: https://poomsmart.github.io/repo/depictions/emojifontefm.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/emojifontefm.json
 Version: 1.1.0
 Installed-Size: 60216
 Filename: debs\com.ps.emojifontefm-native_1.1.0_iphoneos-arm.deb
-Size: 60867960
-md5: 3e2cdd74d53bb889a0d3c165e6427610
-sha1: 3aadf9e73ceabc43ad9d675febe2c792bac90c5d
-sha256: f22e66eb3a0b13bd13bffefff39257071fc3725a193e8e2dc5fa15cf191ec259
+Size: 60725764
+md5: ee445af77608f7d18a10f5c18400f653
+sha1: 027d3a2659d8165a55097d669b027bb18039f0a0
+sha256: bac8fd1a024487d5b5bc1db3fd427aab6135e671163982498fef7797d207eb44
 Depiction: seanthegleaming.github.io/depictions/?p=com.ps.emojifontefm-native
 
 Package: com.ps.emojifontmanager
