@@ -835,6 +835,24 @@ sha1: f5d4a2478c6611e0772ff4d9c6add68620c941d2
 sha256: 7d8d484d669ba4e3c6e71b1a1f10cde4f9a9eed48d1103ec0acbda96f0016362
 Depiction: seanthegleaming.github.io/depictions/?p=com.tigisoftware.appdatamanager
 
+Package: com.tigisoftware.filza64bit
+Name: Filza File Manager 64-bit
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza
+Architecture: iphoneos-arm
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices
+Maintainer: TIGI Software
+Author: TIGI Software
+Section: Utilities
+Version: 3.9.0-2
+Installed-Size: 21860
+Filename: debs\com.tigisoftware.filza64bit_3.9.0-2_iphoneos-arm.deb
+Size: 8476070
+md5: b5c0faa9d5650c370640adf3097b9a23
+sha1: c64f82dfdac3a6e6233553852602bbb428137697
+sha256: 624206dcc388e5e70f783fc066ad4713a102ade40f6205d33ff0dae951092982
+Depiction: seanthegleaming.github.io/depictions/?p=com.tigisoftware.filza64bit
+
 Author: Randy420 <randy.skinner28@outlook.com>
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: VolumeStep13/14
